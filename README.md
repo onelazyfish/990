@@ -53,4 +53,4 @@
   ```
   分值：1 分
 
-以上测试通过后，会在 `Feedback` 中打印相关信息（包括 PyPI 链接，生成图片），但不会对 `PyPI`、`Read the Docs` 自动测试
+以上测试通过后，会在 `Feedback` 中打印相关信息（包括 PyPI 链接，生成图片），但不会对 `PyPI`、`Read the Docs` 自动测试# trail
